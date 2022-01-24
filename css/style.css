@@ -16,6 +16,9 @@
     height: 390px;
     border: none;
 }
+.cardBorder{
+    border: none;
+}
 .hotCard{
     height: 480px;
     background: #3F87F5;
