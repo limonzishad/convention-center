@@ -6,3 +6,48 @@
 .textGray{
     color: #D9DBE1;
 }
+/* card height */
+.cardHeight{
+    height: 390px;
+    border: none;
+}
+.hotCard{
+    height: 480px;
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+.hotCard p{
+    color: white;
+}
+.cardTitle{
+    color: #231D4F;
+    font-weight: 700;
+}
+.cardTitle2{
+    color: white;
+    font-weight: 700;
+}
+/* card body color */
+.cardBody{
+    color: #848199;
+}
+.far{
+    color: #5243C2;
+}
+/* card button */
+.cardButton{
+    background-color: rgb(244, 150, 209, 0.1);
+    color: #3F87F5;
+    font-weight: 600;
+}
+.cardButton2{
+    background-color: white;
+    color: #3F87F5;
+    font-weight: 600;
+}
+.sectionTitle{
+    color: #222221;
+    font-size: 38px;
+    font-weight: 700;
+}
