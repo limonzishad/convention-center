@@ -3,6 +3,11 @@
 *{
     font-family: 'Fira Sans', sans-serif;
 }
+.navBarColor{
+    color: #3E3E3E;
+    font-size: 22px;
+    font-weight: 700;
+}
 .textGray{
     color: #D9DBE1;
 }
